@@ -1,0 +1,15 @@
+{
+  "graph_name": "C4 \u00d7 C4 torus",
+  "density": -6.845851421356201,
+  "method": "Random",
+  "success_rate": 0.406,
+  "is_known_square": false,
+  "square_confidence": "suspected",
+  "timestamp": "2025-06-03T16:39:22.510191",
+  "nodes": 16,
+  "edges": 32,
+  "matrix_shape": [
+    6,
+    6
+  ]
+}

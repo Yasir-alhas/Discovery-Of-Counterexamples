@@ -1,0 +1,15 @@
+{
+  "graph_name": "Path(5)^2",
+  "density": -0.0988684669137001,
+  "method": "Random",
+  "success_rate": 0.5113333333333333,
+  "is_known_square": true,
+  "square_confidence": "confirmed",
+  "timestamp": "2025-06-03T16:39:50.987686",
+  "nodes": 5,
+  "edges": 7,
+  "matrix_shape": [
+    6,
+    6
+  ]
+}

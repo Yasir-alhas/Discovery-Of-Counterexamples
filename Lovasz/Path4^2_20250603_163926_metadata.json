@@ -1,0 +1,15 @@
+{
+  "graph_name": "Path(4)^2",
+  "density": -0.16716331243515015,
+  "method": "Random",
+  "success_rate": 0.49333333333333335,
+  "is_known_square": true,
+  "square_confidence": "confirmed",
+  "timestamp": "2025-06-03T16:39:26.364294",
+  "nodes": 4,
+  "edges": 5,
+  "matrix_shape": [
+    6,
+    6
+  ]
+}
