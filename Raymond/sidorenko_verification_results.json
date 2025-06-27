@@ -1,0 +1,48 @@
+{
+  "total_matrices": 1,
+  "violations_found": 1,
+  "near_violations": 0,
+  "violation_details": [
+    {
+      "source": "csv:EXACT_VERIFIED_VIOLATION_1_1751047683.csv",
+      "source_path": "EXACT_VERIFIED_VIOLATION_1_1751047683.csv",
+      "original_score": 0,
+      "episode": 0,
+      "matrix_shape": [
+        6,
+        6
+      ],
+      "matrix_sum": 36.00000762939453,
+      "matrix_mean": 1.000000238418579,
+      "homomorphism_count": 60466392.0,
+      "normalized_density": 1.0000035722450846,
+      "edge_density": 1.000000238418579,
+      "threshold": 1.000003576284655,
+      "gap": -4.039570455915964e-09,
+      "violation": true,
+      "computation_time": 0.0787041187286377
+    }
+  ],
+  "near_violation_details": [],
+  "all_results": [
+    {
+      "source": "csv:EXACT_VERIFIED_VIOLATION_1_1751047683.csv",
+      "source_path": "EXACT_VERIFIED_VIOLATION_1_1751047683.csv",
+      "original_score": 0,
+      "episode": 0,
+      "matrix_shape": [
+        6,
+        6
+      ],
+      "matrix_sum": 36.00000762939453,
+      "matrix_mean": 1.000000238418579,
+      "homomorphism_count": 60466392.0,
+      "normalized_density": 1.0000035722450846,
+      "edge_density": 1.000000238418579,
+      "threshold": 1.000003576284655,
+      "gap": -4.039570455915964e-09,
+      "violation": true,
+      "computation_time": 0.0787041187286377
+    }
+  ]
+}
